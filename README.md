@@ -7,7 +7,8 @@ A simple C++ tool that updates all `Type="CrossKey" speed="0"` entries to `speed
 
 ## Screenshot
 
-<img width="1110" height="536" alt="image" src="https://github.com/user-attachments/assets/832dc6be-69de-41e0-8bfb-a0cedd3476d0" />
+<img width="538" height="315" alt="image" src="https://github.com/user-attachments/assets/21f6faef-e018-4e69-adff-680f87127678" />
+
 
 ============================================
 
