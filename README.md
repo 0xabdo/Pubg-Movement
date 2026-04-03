@@ -1,10 +1,11 @@
-A simple C++ utility to update the speed value in the TVM_200.xml file inside the AndroidTbox folder. Perfect for users of Gameloop or similar setups who want to quickly modify XML settings.
+A simple C++ tool that updates all Type="CrossKey" speed="0" entries to speed="100" in the TVM_100.xml file inside the AndroidTbox folder.
 
-Features
-✅ Safely reads your APPDATA path
-✅ Automatically updates all Type="CrossKey" speed="0" entries to speed="100"
-✅ Checks if changes are already applied
+How to Use
 
-Screenshot 
-<img width="538" height="315" alt="image" src="https://github.com/user-attachments/assets/763733e8-39be-486a-81bd-aa1e081f75ed" />
+Download and run the EXE.
+Follow the on-screen instructions — the program will automatically update the XML.
+Press Enter to close the window after it’s done.
+Screenshot
+<img width="538" height="315" alt="TVM_100 XML Modifier" src="https://github.com/user-attachments/assets/763733e8-39be-486a-81bd-aa1e081f75ed" />
 
+✅ That’s all — just run it and your XML speed values will be updated automatically.
